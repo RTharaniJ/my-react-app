@@ -14,6 +14,7 @@ export const Navbar = () => {
             <li><a href="#">Calendar</a></li>
             <li><a href="#">Chat</a></li>
             <li><a href="#">Email</a></li>
+            <li><a href="#">Contact</a></li>
           </ul>
         </li>
       </ul>
